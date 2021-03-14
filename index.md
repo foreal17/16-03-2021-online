@@ -13,7 +13,7 @@ humandate: "Mar-16-17, 2021"    # human-readable dates for the workshop (e.g., "
 humantime: "9:30 am - 3:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-03-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-03-17        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Ngoni Faya", "Dinindu Senanayake", "Matt Bixley", "Erin Perkins"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Ngoni Faya", "Dinindu Senanayake", "Matt Bixley", "Eirian Perkins"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Annabel Whibley"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["ngoni.faya@otago.ac.nz"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/16-03-2021-online # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
